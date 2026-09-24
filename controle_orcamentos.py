@@ -1,9 +1,6 @@
 """
-Controle de Orçamentos e Tarefas - Novemp
-Aplicativo desktop em PyQt5 para registrar orçamentos/tarefas do dia a dia:
-data, vendedor responsável, número da PFN, cliente, obra, status etc.
-Os dados ficam salvos automaticamente em um banco SQLite local (orcamentos.db),
-na mesma pasta do programa.
+Controle de Orçamentos e Tarefas 
+
 """
 
 import sys

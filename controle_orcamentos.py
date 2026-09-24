@@ -22,7 +22,7 @@ from PyQt5.QtWidgets import QCompleter
 
 DB_PATH = "orcamentos.db"
 
-VENDEDORES = ["Gabriel", "Leandro", "Ailton", "Tiago", "Guilherme"]
+VENDEDORES = ["Exemplo"]
 STATUS_OPCOES = ["A fazer", "Em andamento", "Concluído", "Enviado ao cliente"]
 
 # Paleta futurista/minimalista - fundo escuro com acento ciano
